@@ -3,3 +3,9 @@
 	font-weight:500; 
 	font-family: 'Hind Madurai', sans-serif;
 }
+img {
+	margin-left: auto;
+    margin-right: auto;
+    width:400px;        display: block;
+
+}
