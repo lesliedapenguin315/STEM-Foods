@@ -1,11 +1,16 @@
 *{
 	font-size:20px;
 	font-weight:500; 
-	font-family: 'Hind Madurai', sans-serif;
+	font-family:arial;
 }
 img {
 	margin-left: auto;
     margin-right: auto;
     width:400px;        display: block;
 
+}
+.blah{
+	font-size:40px}
+.bleh{
+	font-size:20px;
 }
